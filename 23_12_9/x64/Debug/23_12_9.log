@@ -1,0 +1,4 @@
+﻿  9_1.c
+  LINK : 没有找到 C:\Users\asus\Desktop\c语言\daima\23_12_9\x64\Debug\23_12_9.exe 或上一个增量链接没有生成它；正在执行完全链接
+9_2.obj : error LNK2005: main 已经在 9_1.obj 中定义
+C:\Users\asus\Desktop\c语言\daima\23_12_9\x64\Debug\23_12_9.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
